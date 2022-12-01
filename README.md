@@ -2,6 +2,10 @@
 
 My name is Fernando Picazo, I am a software engineer at H-E-B and I currently work on point of sale solutions.
 
+<div align="center">
+  <img src="./compiling-coffee.gif" width="600" height="300"/>
+</div>
+
 <!--
 **FernandoPicazo/FernandoPicazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
