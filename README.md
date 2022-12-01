@@ -3,7 +3,7 @@
 My name is Fernando Picazo, I am a software engineer at H-E-B and I currently work on point of sale solutions.
 
 <div align="center">
-  <img src="./compiling-coffee.gif" width="600" height="300"/>
+  <img src="./compiling-coffee.gif"/>
 </div>
 
 <!--
