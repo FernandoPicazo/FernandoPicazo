@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Fernando Picazo, I am a software engineer at H-E-B and I currently work on point of sale solutions.
+
 <!--
 **FernandoPicazo/FernandoPicazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
